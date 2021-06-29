@@ -1,2 +1,2 @@
 # QUIZ-APP
-This is a quiz app to find true or false out of given statements.
+The quiz app gives a statement and user enters if statement is true or false,and app returns the message if user entered correct message or not.
